@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
   <app appid="enibcfnkbmgmpjkpjcpmigbjdpicanmd">
-    <updatecheck codebase="__HOST__/inventory-1.4.crx" version="1.4" />
+    <updatecheck codebase="https://dragonspore333-prog.github.io/tab-inventory/inventory-1.4.crx" version="1.4" />
   </app>
 </gupdate>
